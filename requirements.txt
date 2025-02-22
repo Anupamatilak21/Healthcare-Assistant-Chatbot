@@ -1,0 +1,10 @@
+streamlit
+transformers
+tensorflow
+nltk
+tf-keras
+torch
+accelerate
+requests
+torchvision
+torchaudio
